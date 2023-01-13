@@ -200,5 +200,16 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/20318#comment
-status: Unchecked
-record: -1
+status: Failed
+feedback:
+  message: "Exception in test #8\n\njava.nio.file.InvalidPathException: Illegal char\
+    \ &lt;?&gt; at index 7: ./test/???\n\tat java.base/sun.nio.fs.WindowsPathParser.normalize(WindowsPathParser.java:182)\n\
+    \tat java.base/sun.nio.fs.WindowsPathParser.parse(WindowsPathParser.java:153)\n\
+    \tat java.base/sun.nio.fs.WindowsPathParser.parse(WindowsPathParser.java:77)\n\
+    \tat java.base/sun.nio.fs.WindowsPath.parse(WindowsPath.java:92)\n\tat java.base/sun.nio.fs.WindowsFileSystem.getPath(WindowsFileSystem.java:232)\n\
+    \tat java.base/java.nio.file.Path.of(Path.java:147)\n\tat java.base/java.nio.file.Paths.get(Paths.java:69)\n\
+    \tat asciimirror.Main.main(Main.java:24)\n\nPlease find below the output of your\
+    \ program during this failed test.\nNote that the &#39;&gt;&#39; character indicates\
+    \ the beginning of the input line.\n\n---\n\nInput the file path:\n&gt; ./test/???"
+  time: "Thu, 12 Jan 2023 18:26:50 UTC"
+record: 4

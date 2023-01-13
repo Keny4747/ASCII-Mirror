@@ -5,10 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fe93a00-5d16-407c-b288-a07cd00131af" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASCII Mirror/Getting it straight/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/ASCII Mirror/Getting it straight/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASCII Mirror/New friends/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/ASCII Mirror/New friends/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASCII Mirror/Odd mirrors/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/ASCII Mirror/Odd mirrors/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASCII Mirror/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/ASCII Mirror/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASCII Mirror/task/build/classes/java/main/asciimirror/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/ASCII Mirror/task/build/classes/java/main/asciimirror/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASCII Mirror/task/build/classes/java/test/MirrorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/ASCII Mirror/task/build/classes/java/test/MirrorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASCII Mirror/task/build/reports/tests/test/classes/MirrorTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/ASCII Mirror/task/build/reports/tests/test/classes/MirrorTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASCII Mirror/task/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ASCII Mirror/task/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASCII Mirror/task/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/ASCII Mirror/task/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASCII Mirror/task/build/test-results/test/TEST-MirrorTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ASCII Mirror/task/build/test-results/test/TEST-MirrorTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASCII Mirror/task/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/ASCII Mirror/task/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASCII Mirror/task/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/ASCII Mirror/task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASCII Mirror/task/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/ASCII Mirror/task/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASCII Mirror/task/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/ASCII Mirror/task/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASCII Mirror/task/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/ASCII Mirror/task/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASCII Mirror/task/out/production/classes/asciimirror/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/ASCII Mirror/task/out/production/classes/asciimirror/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ASCII Mirror/task/src/asciimirror/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ASCII Mirror/task/src/asciimirror/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASCII Mirror/task/test/MirrorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ASCII Mirror/task/test/MirrorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,19 +76,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Edu.Yaml.Migrate": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Edu.Yaml.Migrate&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="ASCII Mirror" />
@@ -85,7 +114,11 @@
       <option name="presentableId" value="Default" />
       <updated>1673474387028</updated>
       <workItem from="1673474388343" duration="48000" />
-      <workItem from="1673534719354" duration="5138000" />
+      <workItem from="1673534719354" duration="6892000" />
+      <workItem from="1673542180174" duration="1275000" />
+      <workItem from="1673545007084" duration="3096000" />
+      <workItem from="1673551250775" duration="1019000" />
+      <workItem from="1673579343671" duration="4344000" />
     </task>
     <servers />
   </component>
