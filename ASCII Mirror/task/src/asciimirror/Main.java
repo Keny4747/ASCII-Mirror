@@ -1,12 +1,17 @@
 package asciimirror;
 
+import javax.swing.tree.RowMapper;
+import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.nio.file.Files;
-import java.nio.file.InvalidPathException;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+import java.util.function.BiFunction;
+
+
 public class Main {
     public static void main(String[] args) {
 
@@ -14,19 +19,19 @@ public class Main {
 
         try {
             List<String> list = new ArrayList<>();
+            List<String> lista = new ArrayList<>();
 
             list =Files.readAllLines(Paths.get(input));
             int max = maxLenght(list);
 
-            List<String> lista = reverseInit(list,max);
-
+            for (String x : list) {
+                lista.add(x.concat(" ".repeat(max - x.length())));
+            }
 
             print(lista);
 
         } catch (IOException e) {
             System.out.println("File not found!");
-        }catch (InvalidPathException e ){
-            System.out.println("File not found");
         }
 
     }
@@ -37,6 +42,7 @@ public class Main {
         String input = scanner.nextLine();
         return input;
     }
+
     public static int maxLenght(List<String> a) {
         int max = 0;
         for (String x: a){
@@ -46,36 +52,7 @@ public class Main {
     }
     public static void print(List<String> lista){
         for (String x : lista){
-            System.out.println(x);
+            System.out.println(x + " | " + x);
         }
-    }
-    public static List<String> reverseInit(List<String> list, int max){
-        List<String> result_str= new ArrayList<>();
-        for (String s:list) {
-            StringBuilder sb=new StringBuilder();
-            sb.append(s);
-            sb.append(" ".repeat(max-s.length()));
-            StringBuilder res = new StringBuilder();
-            res.append(sb);
-            res.append(" | ");
-            sb.reverse();
-            for (int i=0;i<sb.length();i++) {
-                switch(sb.charAt(i)){
-                    case '\\': res.append("/");break;
-                    case '/': res.append("\\");break;
-                    case '}': res.append("{");break;
-                    case '{': res.append("}");break;
-                    case ']': res.append("[");break;
-                    case '[': res.append("]");break;
-                    case ')': res.append("(");break;
-                    case '(': res.append(")");break;
-                    case '<': res.append(">");break;
-                    case '>': res.append("<");break;
-                    default: res.append(sb.charAt(i));break;
-                }
-            }
-            result_str.add(res.toString());
-        }
-        return result_str;
     }
 }
